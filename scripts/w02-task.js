@@ -5,9 +5,9 @@
 /* Step 1 - Setup type tasks - no code required */
 
 /* Step 2 - Variables */
-const fullName = "nelson"; // Declare and instantiate a variable to hold your name.
+const fullName = "Nelson Attah"; // Declare and instantiate a variable to hold your name
 const currentYear = new Date().getFullYear(); // Declare and instantiate a variable to hold the current year.
-const profilePicture = 'images/pix.jpg'; // Declare and instantiate a variable to hold the file path (location) and file name of the image.
+const profilePicture = 'images/profile.jpeg'; // Declare and instantiate a variable to hold the file path (location) and file name of the image.
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name'); // Use the document.getElementById() method to get the HTML element with the id of name.
